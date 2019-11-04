@@ -1,0 +1,7 @@
+Things left to do:
+- Add end game logic - DONE
+- Add AI betting
+- Allow multiple AI? - DONE / clean up UI
+- Fix randomness
+- Reset button? - DONE
+- Some type of acknowledgement who won
